@@ -20,4 +20,4 @@ _.env_
 
 ### Flask CLI commands
 
-`flask transfer_from_csv_to_db <path_csv1> <path_csv2>`
+`flask transfer_from_csv_to_db`
