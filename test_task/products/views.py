@@ -49,4 +49,4 @@ def add_review():
     else:
         return json.dumps({'status': 'error', 'message': 'Product does not exist'}), 404
 
-    return json.dumps({'status': 'ok'}), 201
+    return json.dumps({'status': 'ok'}), 200
